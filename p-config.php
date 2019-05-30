@@ -1,6 +1,6 @@
 <?php
 
-	define('BaseURL', 'http://localhost/mlm/');
+	define('BaseURL', '');
 	
 	define('MyAdmin', 'p-admin/');
 	define('MyContents', 'p-contents/');
@@ -13,5 +13,5 @@
 	define('DbHost', 'localhost');
 	define('DbUser', 'root');
 	define('DbPass', 'mysql');
-	define('DbName', 'mlm');
+	define('DbName', '');
 	define('DbPrefix', '');
